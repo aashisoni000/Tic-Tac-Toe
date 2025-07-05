@@ -1,0 +1,21 @@
+*{
+background-color: #d0e5ef;
+margin: 0;
+padding: 0px;
+}
+
+.heading{
+    background-image: url(heading.gif);
+    height: 200px;
+    width: 80%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin: 0 auto;
+
+
+
+    
+    
+}
+
