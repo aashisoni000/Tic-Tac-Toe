@@ -71,3 +71,34 @@ body{
     width: 7vmin;
     border: none;
 }
+
+.msg-container {
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+
+}
+
+.msg-winner {
+    background-image: url(win.gif);
+    width: 50%;
+    height: 80vmin;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#new-btn{
+    background-image: url(new.png);
+        background-repeat: no-repeat;
+    background-size: cover;
+    height: 7vmin;
+    width: 7vmin;
+    border: none;
+
+}
+
+.hide{
+    display: none;
+}
