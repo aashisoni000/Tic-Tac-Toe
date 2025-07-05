@@ -50,3 +50,14 @@ body{
     box-shadow:  0 0 1rem rgba(0,0,0,0.1);
     
 }
+
+/*reset game button */
+
+#reset-btn{
+   background-image: url(reset.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 7vmin;
+    width: 7vmin;
+    border: none;
+}
