@@ -99,20 +99,20 @@ body{
 }
 
 #new-btn{
-    background-image: url(new.gif);
+    background-image: url(new.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 11vmin;
-    width: 17vmin;
+    height: 7.5vmin;
+    width: 25.5vmin;
     border: none;
-    border-radius: 1rem;
+    border-radius: 0.75rem;
 
 }
 
 #new-btn:hover{
     border-style: solid;  
     border-color: #d0e5ef;
-    border-width: 2px;
+    border-width: 1px;
 }
 
 
